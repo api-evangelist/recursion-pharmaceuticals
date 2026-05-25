@@ -1,0 +1,138 @@
+aid: recursion-pharmaceuticals
+name: Recursion Pharmaceuticals
+description: >-
+  Recursion Pharmaceuticals (NASDAQ: RXRX) is a Salt Lake City-based AI-enabled
+  drug discovery company that operates the Recursion Operating System
+  (Recursion OS), a vertically integrated platform combining automated wet-lab
+  cellular phenomics, transcriptomics (Trekseq), proteomics, ADME, chemistry,
+  and patient data with machine learning to map biology and design drug
+  candidates. The platform runs on BioHive-2, a NVIDIA-built supercomputer
+  ranked among the top global systems and dedicated to biopharma workloads,
+  and is fed by 50+ petabytes of proprietary biological and chemical data. In
+  November 2024 Recursion completed the acquisition of Exscientia, folding
+  Exscientia's generative AI chemistry, Centaur Chemist, and clinical pipeline
+  into the combined company; Recursion now runs more than 10 clinical and
+  preclinical programs (REC-4881 for FAP, REC-3565 MALT1 inhibitor, REC-1245
+  RBM39 for biomarker-enriched solid tumors and lymphomas, REC-617 CDK7
+  inhibitor, REC-994 for cerebral cavernous malformation, REC-2282 for NF2-
+  mutated meningiomas, REC-4209 for IPF, REC-7735 for HSD obesity), 10+
+  advanced discovery programs, and 10+ partnered programs across Roche
+  (Genentech), Bayer, Sanofi, and Merck KGaA (Darmstadt). Recursion does not
+  currently expose paid commercial APIs to external developers; assets and
+  data access are delivered through licensing, scientific collaborations, and
+  the MapApp web product. Externally, Recursion ships substantial open
+  tooling: the RxRx family of open phenomics datasets (RxRx1, RxRx2, RxRx3,
+  RxRx3-core, RxRx19a, RxRx19b) hosted at rxrx.ai and Hugging Face, the
+  OpenPhenom-S/16 foundation model (released on Hugging Face and Google
+  Cloud's Model Garden, with Phenom-Beta on NVIDIA BioNeMo), the MolE
+  molecular foundation model, the gflownet library for graph and molecular
+  generative modeling, SynFlowNet/synflownet-boltz for retrosynthesis-aware
+  molecular design, maes_microscopy (NeurIPS 2023 spotlight masked
+  autoencoders for cell microscopy), and rxrx1-utils for the NeurIPS 2019
+  CellSignal competition. The combination positions Recursion as a Tier-2 AI
+  drug discovery provider with no commercial API surface but a meaningful
+  open-source and open-model presence aimed at the computational biology
+  research community.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI
+  - Artificial Intelligence
+  - Drug Discovery
+  - Biotech
+  - Pharmaceuticals
+  - Phenomics
+  - Cellular Imaging
+  - Transcriptomics
+  - Proteomics
+  - Chemistry
+  - Machine Learning
+  - Foundation Models
+  - Open Datasets
+  - Open Source Models
+  - Generative Chemistry
+  - Oncology
+  - Rare Disease
+  - Clinical Trials
+  - BioHive
+  - Recursion OS
+  - MOSAIC
+  - MapApp
+  - OpenPhenom
+  - MolE
+  - GFlowNet
+  - RxRx
+  - Exscientia
+url: https://raw.githubusercontent.com/api-evangelist/recursion-pharmaceuticals/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.recursion.com
+  - type: Platform
+    url: https://www.recursion.com/recursion-os
+  - type: Pipeline
+    url: https://www.recursion.com/pipeline
+  - type: ClinicalTrials
+    url: https://www.recursion.com/clinical-trials
+  - type: Partnerships
+    url: https://www.recursion.com/partners
+  - type: Publications
+    url: https://www.recursion.com/publications
+  - type: OpenDatasets
+    url: https://www.rxrx.ai
+  - type: MapApp
+    url: https://www.rxrx.ai/mapapp
+  - type: PhenomModel
+    url: https://www.rxrx.ai/phenom
+  - type: HuggingFace
+    url: https://huggingface.co/recursionpharma
+  - type: HuggingFaceModel — OpenPhenom-S/16
+    url: https://huggingface.co/recursionpharma/OpenPhenom
+  - type: HuggingFaceDataset — RxRx3
+    url: https://huggingface.co/datasets/recursionpharma/rxrx3
+  - type: HuggingFaceDataset — RxRx3-core
+    url: https://huggingface.co/datasets/recursionpharma/rxrx3-core
+  - type: GitHubOrganization
+    url: https://github.com/recursionpharma
+  - type: SourceCode — gflownet
+    url: https://github.com/recursionpharma/gflownet
+  - type: SourceCode — MolE (mole_public)
+    url: https://github.com/recursionpharma/mole_public
+  - type: SourceCode — SynFlowNet-Boltz
+    url: https://github.com/recursionpharma/synflownet-boltz
+  - type: SourceCode — MAEs Microscopy
+    url: https://github.com/recursionpharma/maes_microscopy
+  - type: SourceCode — RxRx1 Utils
+    url: https://github.com/recursionpharma/rxrx1-utils
+  - type: SourceCode — RxRx Datasets
+    url: https://github.com/recursionpharma/rxrx-datasets
+  - type: ExternalModel — Phenom-Beta on NVIDIA BioNeMo
+    url: https://build.nvidia.com/recursion
+  - type: InvestorRelations
+    url: https://ir.recursion.com
+  - type: SECFilings
+    url: https://ir.recursion.com/financials/sec-filings
+  - type: Newsroom
+    url: https://www.recursion.com/newsroom
+  - type: Blog
+    url: https://www.recursion.com/insights
+  - type: Careers
+    url: https://www.recursion.com/careers
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/recursionpharma
+  - type: Twitter
+    url: https://twitter.com/RecursionPharma
+  - type: YouTube
+    url: https://www.youtube.com/@RecursionPharmaceuticals
+  - type: StockTicker
+    url: https://finance.yahoo.com/quote/RXRX
+  - type: Acquisition — Exscientia
+    url: https://ir.recursion.com/news-releases/news-release-details/recursion-completes-acquisition-exscientia
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
