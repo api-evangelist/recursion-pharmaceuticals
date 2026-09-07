@@ -187,5 +187,3 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
-x-parent: recursion
-x-relationship: product
