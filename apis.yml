@@ -62,14 +62,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/recursion-
 tags:
   - Artificial Intelligence
   - Drug Discovery
-  - Biotech
+  - Biotechnology
   - Pharmaceuticals
   - Phenomics
   - Cellular Imaging
   - Transcriptomics
   - Proteomics
   - Chemistry
-  - Machine-Learning
+  - Machine Learning
   - Foundation Models
   - Open Datasets
   - Open Source Models
@@ -114,6 +114,7 @@ tags_raw:
   - GFlowNet
   - RxRx
   - Exscientia
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/recursion-pharmaceuticals/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
